@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "AgriKhaata",
+    "slug": "agrikhaata",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.agrikhaata.pk"
+    }
+  }
+}
